@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/technical_jugad" target="blank"><img src="https://img.shields.io/twitter/follow/technical_jugad?logo=twitter&style=for-the-badge" alt="technical_jugad" /></a> </p>
 
-- 🔭 I’m currently working on [E-ecommerce website](https://my-electronic-ecommerce-shop.vercel.app/)
+- 🔭 I’m currently working on [[E-ecommerce website](https://agra-marbles-store.vercel.app/)
 
 - 🌱 I’m currently learning **NextJs, TypeScript & Firebase**
 
-- 🤝 I’m looking for help with [E-ecommerce website](https://my-electronic-ecommerce-shop.vercel.app/)
+- 🤝 I’m looking for help with [E-ecommerce website](https://agra-marbles-store.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://shivbhankushwaha.github.io/reactMyportFolio/](https://shivbhankushwaha.github.io/reactMyportFolio/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shivbhankushwaha862003672001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q7OZiMr9EjKAf6nZBFZbIckIxWieQdQa/view?usp=drivesdk](https://drive.google.com/file/d/1Q7OZiMr9EjKAf6nZBFZbIckIxWieQdQa/view?usp=drivesdk)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1QjMEOcQwlYFGHggpoCThbfWF2ucDhICm/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am very funny using technology**
 
