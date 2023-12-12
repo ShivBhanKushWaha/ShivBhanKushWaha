@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
 <a href="https://fb.com/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/black_lover14444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_lover14444" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@tappebajgamingmaudaha3051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tappebajgamingmaudaha3051" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ShivbhanKushwaha3051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tappebajgamingmaudaha3051" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
 </p>
 
