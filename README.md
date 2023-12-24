@@ -26,11 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/technical_jugad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technical_jugad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
-<a href="https://fb.com/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivbhan-kushwaha-183b18226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shivbhan.kushwaha.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/black_lover14444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_lover14444" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ShivbhanKushwaha3051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tappebajgamingmaudaha3051" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivbhan kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
+<a href="https://leetcode.com/shivbhankushwaha862003672001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivbhan kushwaha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
