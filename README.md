@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/technical_jugad" target="blank"><img src="https://img.shields.io/twitter/follow/technical_jugad?logo=twitter&style=for-the-badge" alt="technical_jugad" /></a> </p>
 
-- 🔭 I’m currently working on [[E-ecommerce website](https://agra-marbles-store.vercel.app/)]
+- 🔭 My recently finished projet [[E-ecommerce website](https://agra-marbles-store.vercel.app/)]
 
-- 🌱 I’m currently learning **NextJs, TypeScript & Firebase**
-
-- 🤝 I’m looking for help with [E-ecommerce website](https://agra-marbles-store.vercel.app/)
+- 🌱 I’m currently learning **NextJs, TypeScript & Firebase, React-Native for Android Develop**
 
 - 👨‍💻 All of my projects are available at [My-PortFolio](https://my-port-folio-next-js.vercel.app/)
 
-- 💬 Ask me about **ReactJs, NextJs,**
+- 💬 Ask me about **ReactJs, NextJs, Android Development**
 
 - 📫 How to reach me **shivbhankushwaha862003672001@gmail.com**
 
