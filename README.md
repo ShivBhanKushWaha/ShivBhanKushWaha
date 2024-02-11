@@ -11,7 +11,7 @@
 
 - 🔭 I am working on a project using react-native Like youtube for india if you want to contribute then send me request [[Bharat-YouTube]]
 
-- 🌱 I’m currently learning **NextJs, TypeScript & Firebase, React-Native for Android Develop**
+- 🌱 I’m currently learning more about **NextJs, TypeScript & Firebase, React-Native for Android Development**
 
 - 👨‍💻 All of my projects are available at [My-PortFolio](https://my-port-folio-next-js.vercel.app/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shivbhankushwaha862003672001@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1QjMEOcQwlYFGHggpoCThbfWF2ucDhICm/view?usp=drivesdk)]
+- 📄 Know about my experiences [([https://drive.google.com/file/d/1QjMEOcQwlYFGHggpoCThbfWF2ucDhICm/view?usp=drivesdk](https://drive.google.com/file/d/10OohCLPvZhbPD_e5Oc41XMjzdNdmoUVb/view?usp=drive_link))]
 
 - ⚡ Fun fact **I think I am very funny using technology**
 
