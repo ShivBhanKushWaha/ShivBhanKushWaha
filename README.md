@@ -18,11 +18,10 @@
 </p>
 
 - 🔭 My recently finished project: [E-commerce website](https://agra-marbles-store.vercel.app/)
-- 🔭 I am working on a project using React Native called Bharat-YouTube. If you want to contribute, send me a request.
 - 🌱 I’m currently learning more about **Next.js, TypeScript & Firebase, React-Native for Android Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-port-folio-next-js.vercel.app/)
 - 💬 Ask me about **React.js, Next.js, Android Development**
-- 📫 How to reach me: **shivbhankushwaha862003672001@gmail.com**
+- 📫 How to reach me: **shivbhan06kushwaha@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/10OohCLPvZhbPD_e5Oc41XMjzdNdmoUVb/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am very funny using technology**
 
